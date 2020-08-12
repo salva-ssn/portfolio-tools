@@ -1,5 +1,4 @@
 import json
-from typing import List, Any, Union
 import requests
 from bs4 import BeautifulSoup
 
